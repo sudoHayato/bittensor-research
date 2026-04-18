@@ -1,0 +1,25 @@
+netuid,name,emission_tao_day,flow_30d,miner_count,low_onchain_miners,github_url
+46,RESI,39.865,1723083036001.0,1,True,https://github.com/resi-labs-ai/RESI-models
+2,DSperse,44.7078,726704440722.0,1,True,https://github.com/inference-labs-inc/subnet-2
+74,Gittensor,42.4013,697693432454.0,15,True,https://github.com/entrius/gittensor/tree/main
+68,NOVA,0.4234,584163423359.0,3,True,https://github.com/metanova-labs/nova/
+38,colosseum,38.0414,557580796618.0,1,True,https://github.com/TAO-Colosseum/tao-colosseum-subnet
+121,sundae_bar,43.7873,512594332048.0,1,True,https://github.com/sundae-bar/bittensor-subnet
+126,Poker44,35.4564,472724287194.0,242,False,https://github.com/Poker44/Poker44-subnet
+67,Harnyx,31.2861,426729805799.0,2,True,https://github.com/harnyx/harnyx
+79,MVTRX,21.676,356051849405.0,240,False,https://github.com/taos-im/sn-79
+20,GroundLayer,24.979,350238366136.0,1,True,https://github.com/RogueTensor/comingsoon
+114,SOMA,41.533,348650956688.0,36,False,https://github.com/DendriteHQ/SOMA
+124,Swarm,40.569,298477715067.0,2,True,https://github.com/swarm-subnet/swarm
+83,CliqueAI,22.5614,281922748153.0,238,False,https://github.com/toptensor/CliqueAI
+73,MetaHash,25.6859,241836885146.0,6,True,https://github.com/fx-integral/metahash
+54,Yanez MIID,41.7407,202467575779.0,183,False,https://github.com/yanez-compliance/MIID-subnet
+49,Nepher Robotics,30.9336,190687476703.0,2,True,https://github.com/nepher-ai/nepher-subnet
+47,EvolAI,18.4288,174626579652.0,1,True,https://github.com/openevolai/evolai.git
+32,ItsAI,24.2965,140625902088.0,155,False,https://github.com/It-s-AI/llm-detection
+80,dogelayer,18.7201,103185339818.0,14,True,https://github.com/dogelayer-ai/dogelayer
+113,TensorUSD,21.3612,101478844266.0,1,True,https://github.com/TensorUSD/subnet
+109,Academia,16.4336,84632603666.0,1,True,https://github.com/fx-integral/academia
+92,TensorClaw,18.9199,50000870392.0,1,True,https://github.com/tensorclaw/tensorclaw
+108,TalkHead,19.0419,24619604620.0,1,True,https://github.com/talkheadai/talkhead-subnet
+110,Rich Kids of TAO,21.0839,16040629558.0,1,True,https://github.com/Rich-Kids-of-TAO/rkt-subnet

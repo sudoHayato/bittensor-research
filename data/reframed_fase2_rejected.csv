@@ -1,0 +1,12 @@
+netuid,name,hardware_category,reject_reason,github_url
+1,Apex,GPU_REQUIRED,GPU_REQUIRED,https://github.com/macrocosm-os/apex
+34,BitMind,GPU_REQUIRED,GPU_REQUIRED,https://github.com/BitMind-AI/bitmind-subnet
+45,Talisman AI,GPU_REQUIRED,GPU_REQUIRED,https://github.com/Team-Rizzo/talisman-ai
+105,Beam,CLONE_FAILED,clone_failed,https://github.com/orgs/Beam-Network/repositories
+57,Sparket.AI,CPU_ONLY,burn_flags(1),https://github.com/sparket-ai/sparket-ai
+85,Vidaio,GPU_REQUIRED,GPU_REQUIRED; burn_flags(1),https://github.com/vidaio-subnet/vidaio-subnet
+50,Synth,CPU_ONLY,burn_flags(1),https://github.com/mode-network/synth-subnet
+123,MANTIS,GPU_REQUIRED,GPU_REQUIRED,https://github.com/Barbariandev/MANTIS
+54,Yanez MIID,GPU_REQUIRED,GPU_REQUIRED,https://github.com/yanez-compliance/MIID-subnet
+33,ReadyAI,GPU_REQUIRED,GPU_REQUIRED,https://github.com/afterpartyai/bittensor-conversation-genome-project
+72,StreetVision by NATIX,GPU_REQUIRED,GPU_REQUIRED,https://github.com/natixnetwork/streetvision-subnet

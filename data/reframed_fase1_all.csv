@@ -1,0 +1,37 @@
+netuid,name,categorias,emission_tao_day,miners_scoring,top1_usd_mo,top10_usd_mo,median_usd_mo,gini,viable_tier,github_url
+1,Apex,networking,60.3784,2,401268.0,244533.0,244533.0,0.3205,VIABLE_STORAGE,https://github.com/macrocosm-os/apex
+34,BitMind,data_collection,77.7603,50,303642.0,152542.0,1441.0,0.8723,VIABLE_STORAGE,https://github.com/BitMind-AI/bitmind-subnet
+12,Compute Horde,compute_light|monitoring|storage,36.263,6,286403.0,143934.0,1465.0,0.8084,VIABLE_STORAGE,https://github.com/backend-developers-ltd/ComputeHorde/
+48,Quantum Compute,api_service|data_collection,28.5153,2,151688.0,115487.0,115487.0,0.1567,VIABLE_STORAGE,https://github.com/qbittensor-labs/quantum-compute
+6,Numinous,networking|oracle,27.8683,51,215215.0,107671.0,128.0,0.9578,VIABLE_STORAGE,https://github.com/numinouslabs/numinous
+14,TAOHash,compute_light|indexing|monitoring|networking,48.3616,4,261153.0,97932.0,48966.0,0.4583,VIABLE_STORAGE,https://github.com/latent-to/taohash
+45,Talisman AI,api_service|compute_light|oracle,23.6224,6,190933.0,95509.0,85.0,0.8314,VIABLE_STORAGE,https://github.com/Team-Rizzo/talisman-ai
+22,Desearch,api_service|indexing|monitoring|scraping,26.8287,139,176031.0,88170.0,309.0,0.8305,VIABLE_STORAGE,https://github.com/datura-ai/desearch
+59,Babelbit,api_service|data_collection|monitoring|oracle|storage,22.1949,174,171091.0,85572.0,52.0,0.9525,VIABLE_STORAGE,https://github.com/babelbit/babelbit_subnet
+89,InfiniteHash,compute_light|indexing|monitoring|storage,20.2736,2,111785.0,82108.0,82108.0,0.1807,VIABLE_STORAGE,https://github.com/backend-developers-ltd/InfiniteHash
+105,Beam,networking,55.1097,8,119180.0,79558.0,39936.0,0.3765,VIABLE_STORAGE,https://github.com/orgs/Beam-Network/repositories
+117,BrainPlay,api_service|monitoring,17.3926,2,99057.0,70440.0,70440.0,0.2031,VIABLE_STORAGE,https://github.com/shiftlayer-llc/brainplay-subnet
+18,Zeus,data_collection|oracle,38.017,9,45809.0,41673.0,37538.0,0.1669,VIABLE_STORAGE,https://github.com/Orpheus-AI/Zeus
+118,HODL Exchange,indexing,15.9859,49,78623.0,39555.0,486.0,0.836,VIABLE_STORAGE,https://github.com/mobiusfund/etf
+80,dogelayer,compute_light|indexing|monitoring|networking|storage,18.7201,4,76866.0,37908.0,37372.0,0.4055,VIABLE_STORAGE,https://github.com/dogelayer-ai/dogelayer
+116,TaoLend,monitoring|networking|oracle,18.5908,4,43641.0,37646.0,36905.0,0.0598,VIABLE_STORAGE,https://github.com/xpenlab/taolend
+71,Leadpoet,compute_light|indexing|networking|scraping|storage,36.9923,179,70267.0,35626.0,986.0,0.5468,VIABLE_STORAGE,https://github.com/leadpoet/leadpoet
+73,MetaHash,compute_light|oracle|storage,25.6859,6,34676.0,34676.0,34676.0,0.0,VIABLE_STORAGE,https://github.com/fx-integral/metahash
+65,TAO Private Network,api_service|networking,23.3011,24,61583.0,33152.0,4722.0,0.6161,VIABLE_STORAGE,https://github.com/taofu-labs/tpn-subnet
+77,Liquidity,api_service|indexing|monitoring,23.3542,9,57725.0,32178.0,6631.0,0.5755,VIABLE_STORAGE,https://github.com/creativebuilds/sn77
+57,Sparket.AI,indexing|oracle,17.2813,8,20802.0,18978.0,17155.0,0.0312,VIABLE_STORAGE,https://github.com/sparket-ai/sparket-ai
+41,Almanac,data_collection|networking|oracle,29.4212,34,27765.0,17110.0,6454.0,0.4892,VIABLE_STORAGE,https://github.com/sportstensor/sn41
+85,Vidaio,data_collection|networking|storage,72.0047,100,19528.0,11944.0,4360.0,0.3551,VIABLE_STORAGE,https://github.com/vidaio-subnet/vidaio-subnet
+50,Synth,oracle|storage,64.1723,234,21060.0,10888.0,716.0,0.6778,VIABLE_STORAGE,https://github.com/mode-network/synth-subnet
+123,MANTIS,oracle|storage,24.512,247,18631.0,9525.0,420.0,0.6159,VIABLE_STORAGE,https://github.com/Barbariandev/MANTIS
+79,MVTRX,api_service|data_collection|monitoring|networking,21.676,232,13569.0,6925.0,280.0,0.6897,VIABLE_STORAGE,https://github.com/taos-im/sn-79
+88,Investing,oracle,21.6905,116,11895.0,6057.0,219.0,0.7441,VIABLE_STORAGE,https://github.com/mobiusfund/investing
+128,ByteLeap,compute_light|monitoring,18.6938,42,6784.0,5141.0,3498.0,0.2063,VIABLE_STORAGE,https://github.com/byteleapai/byteleap-Miner
+54,Yanez MIID,data_collection,41.7407,182,6006.0,3833.0,1661.0,0.3133,VIABLE_STORAGE,https://github.com/yanez-compliance/MIID-subnet
+13,Data Universe,data_collection|indexing|oracle|scraping|storage,44.0829,241,4045.0,2706.0,1367.0,0.2411,VIABLE_STORAGE,https://github.com/macrocosm-os/data-universe
+33,ReadyAI,api_service|data_collection|indexing|monitoring|networking|scraping|storage,48.5742,232,2471.0,2081.0,1691.0,0.0926,VIABLE_STORAGE,https://github.com/afterpartyai/bittensor-conversation-genome-project
+126,Poker44,data_collection|oracle,35.4564,240,1589.0,1440.0,1291.0,0.155,VIABLE_STORAGE,https://github.com/Poker44/Poker44-subnet
+103,Djinn,compute_light|indexing|monitoring|oracle|scraping,31.536,246,1076.0,1076.0,1076.0,0.0294,VIABLE_STORAGE,https://github.com/Djinn-Inc/djinn/
+111,oneoneone,api_service|data_collection|scraping|storage,21.624,249,1273.0,980.0,687.0,0.152,VIABLE_STORAGE,https://github.com/oneoneone-io/subnet-111
+72,StreetVision by NATIX,data_collection|oracle,18.5074,246,697.0,670.0,644.0,0.074,VIABLE_STORAGE,https://github.com/natixnetwork/streetvision-subnet
+82,Hermes,api_service|indexing|monitoring,18.0921,246,747.0,663.0,579.0,0.0693,VIABLE_STORAGE,https://github.com/SN-Hermes/hermes-subnet

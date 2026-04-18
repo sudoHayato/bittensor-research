@@ -1,0 +1,1255 @@
+{
+  "generated_at": "2026-04-12T10:45:57.335139Z",
+  "subnet": 32,
+  "subnet_name": "ItsAI",
+  "wandb_attempt": {
+    "status": "spa_shell",
+    "note": "WandB returned JS SPA shell, no usable miner data",
+    "body_length": 3791
+  },
+  "source": "taostats_api",
+  "total_neurons_queried": 200,
+  "miners_with_incentive": 124,
+  "miners": [
+    {
+      "uid": 93,
+      "hotkey": {
+        "ss58": "5H49Qz4N1GfMHy4enLo93TzRuwcP9wy2ccbR7yf6RRLueaRA",
+        "hex": "0xdcbff4785e6d6cd21b5cc3548b3cf23d716712a9ef8556cd5577820618e09b4d"
+      },
+      "incentive": 0.010421911955443655,
+      "emission": 1543742269.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 130,
+      "hotkey": {
+        "ss58": "5HjLCwqZki9WMXMxdjSYUfvmMbmVupRvhvft3T3Se6AFiiZN",
+        "hex": "0xfaa2db38be257f6c814e6e5c57b4137e6ce427528f33b6181060093ed4573b57"
+      },
+      "incentive": 0.010238803692683299,
+      "emission": 1516462581.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 165,
+      "hotkey": {
+        "ss58": "5CBEJx4mNMRDz9bVFmNhfqEkqbykzxmWP2CQJbpetKR7qBKH",
+        "hex": "0x04f9fc9e9e84c701b7f00d755a0645eb045be1d9bd748fad552b8b88b067dc44"
+      },
+      "incentive": 0.009857328145265888,
+      "emission": 1461091016.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 84,
+      "hotkey": {
+        "ss58": "5EZTZyu8BhUU4MbNGEQt6tTezexCuBvj6njv1MDak56wbT1A",
+        "hex": "0x6e667ca75204f942342ba753bf381b70cd05ca14c56a3cf22d1e5488b5e9294d"
+      },
+      "incentive": 0.009689478904402228,
+      "emission": 1435648192.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 48,
+      "hotkey": {
+        "ss58": "5HaemkHjPqQSBokLfvW2QFCcGzWnNCZiHHaavNzKBhGjmSy7",
+        "hex": "0xf4042514cbf571ab46b586d7465092e0b967ef317ca913a62c3e1f9232b40d1f"
+      },
+      "incentive": 0.009643701838712139,
+      "emission": 1428311073.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 90,
+      "hotkey": {
+        "ss58": "5CoxvVkYcYWrK19dqzeZvJbdNkGiA8v9SftA171RQoMtK9n8",
+        "hex": "0x20fe44e0871bf44fefb0393cb26e7ea6c0d982771073792111fd28afb55e7344"
+      },
+      "incentive": 0.009628442816815443,
+      "emission": 1425642653.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 192,
+      "hotkey": {
+        "ss58": "5FRzmJcU75b2wnyiUC68vUZbefNEY1dGRN3kMZxuqYTJ6ieb",
+        "hex": "0x94f1c5052f33eb36f4072abf941165eecfb017ce95a792c53be78c883b33fa36"
+      },
+      "incentive": 0.00955214770733196,
+      "emission": 1416001854.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 137,
+      "hotkey": {
+        "ss58": "5FTnyh7L2vpXkRVXJMJv4qUZsm6iAvRspqBdzUDv6BNL4rAk",
+        "hex": "0x9650957460cbc904cb5b8a7722c7973c0fc78b76fcd1660ae92958f5a86b8801"
+      },
+      "incentive": 0.009475852597848477,
+      "emission": 1402951025.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 182,
+      "hotkey": {
+        "ss58": "5G979fNtrdYPwX87tW1riukpYA11RpRLpcbx2PGatcrbxiWT",
+        "hex": "0xb44c539ed3b7662b7e86677d74d45ec843f52360f61f8f9f4c26c4f9a23d4c17"
+      },
+      "incentive": 0.009430075532158388,
+      "emission": 1396728113.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 99,
+      "hotkey": {
+        "ss58": "5EoCGDwx6kVChBRjwKXAS37Eu7YLkuyHgk9rAkE9JcvbiYYZ",
+        "hex": "0x78e065be23dde8b09d08d1a928a40a5f8d121ecd769186db93a650999875320c"
+      },
+      "incentive": 0.009399557488364995,
+      "emission": 1393043563.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 117,
+      "hotkey": {
+        "ss58": "5Ejy2jnGX6nZmwHAA7KCee6cmBCXezePwrESZkgQciUhRqok",
+        "hex": "0x766a1dda98a39ff607822858884ad24ef5c6fe6d6177b6005857c748f2724a72"
+      },
+      "incentive": 0.009369039444571603,
+      "emission": 1388651657.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 28,
+      "hotkey": {
+        "ss58": "5DV2W7skJRixkhRpFT9eZ3cxhtsz7TYawozhPK6umWkttz39",
+        "hex": "0x3ec8e3e2c35df937ef697f21c9f7644cc0063e53c5ce45ac2b10073752cc8701"
+      },
+      "incentive": 0.009353780422674906,
+      "emission": 1384737732.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 62,
+      "hotkey": {
+        "ss58": "5EZzXx27Lgmr8GcQfFpnADzLpC11DwY9nHYmkNExx4W1KDZR",
+        "hex": "0x6eceb969c6e639be2945e94a35c50c1e9eaf9f93c45862202e594211e556a918"
+      },
+      "incentive": 0.009323262378881514,
+      "emission": 1380209566.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 107,
+      "hotkey": {
+        "ss58": "5CyGUMEDQcLECEwcnSP6DVHC7vbKiUaf1m2LFK6fQVas1YZo",
+        "hex": "0x28168db44250e0bb47a4d898d4ff993cc48befa380595a5aaca58332372e5063"
+      },
+      "incentive": 0.009277485313191424,
+      "emission": 1373305075.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 88,
+      "hotkey": {
+        "ss58": "5C7LyphFDxHy4FPrw2jMV5SstQKX5PCNp9C9R617RCHznsa1",
+        "hex": "0x0203758ac7d5c2134ae73ab0515dd89e6be0d053e298eee18002db70c44a2420"
+      },
+      "incentive": 0.009231708247501335,
+      "emission": 1366825219.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 33,
+      "hotkey": {
+        "ss58": "5CPYv9vxFG5aWBozyMEjoaBJ31G1dG19mFgruVeNBiMY9g29",
+        "hex": "0x0e5f917ccab8aea494135cac102d2f280b185eecadee92386d6c8be154ed1313"
+      },
+      "incentive": 0.009216449225604639,
+      "emission": 1364634573.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 124,
+      "hotkey": {
+        "ss58": "5H3RHgZUknwusY4QyNTFu7GM5pddRtPzcqgoBpr9NfcTBoxd",
+        "hex": "0xdc322585acdb0d8bffc0f44cb3e23627b6d8de291fa5e4368b836b66f511f501"
+      },
+      "incentive": 0.009201190203707943,
+      "emission": 1363194429.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 170,
+      "hotkey": {
+        "ss58": "5DLC48u8QrzvDPj5fERsCng4smA7eB4Yx7BSfvhxQsoGnFGL",
+        "hex": "0x380bd62714a6d756c590a8fca3b6072e1e24968e9a0f42d4951a9fe24688fb7c"
+      },
+      "incentive": 0.009140154116121157,
+      "emission": 1354755369.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 126,
+      "hotkey": {
+        "ss58": "5HgtjpnQYn6JJbVmhGRoe4vq9Lwe9Bz9XWpBaJAqVhmQ3gCk",
+        "hex": "0xf8c6a246dff2dc63aaa052ea11c0982b02d445b1a40ee09e228c5c60204f8e4f"
+      },
+      "incentive": 0.009094377050431068,
+      "emission": 1346740186.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 32,
+      "hotkey": {
+        "ss58": "5GeJiytC8TAni7yKMsc4bdghCUUGHWEzmCn3LiuDUe3DW5c3",
+        "hex": "0xca9168101f9fb778d6abdc3968154b8b4386ffe03bef656c70778ddd89bdec2d"
+      },
+      "incentive": 0.009063859006637675,
+      "emission": 1342230629.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 35,
+      "hotkey": {
+        "ss58": "5ECg2ytuVTKWt5NgP2ahSvrApF8JNW1AZVYov14FyBQ1HxYc",
+        "hex": "0x5e8c4bcd7ed50e0c44e334ac85bebf72d0a35dc00e4386fb9f83c03f1188d533"
+      },
+      "incentive": 0.00903334096284428,
+      "emission": 1339093327.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 153,
+      "hotkey": {
+        "ss58": "5EhaAsaRGKFYnzkhMnaZoUCwTLBcdzvL9LbchRLD2EFtiX2u",
+        "hex": "0x7496ac4b5704e5e6bebec352cd4e4d8f1d4e03fa58a0e0e9dc08f474bd615578"
+      },
+      "incentive": 0.009002822919050888,
+      "emission": 1334393680.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 193,
+      "hotkey": {
+        "ss58": "5E2cDJRR4w6MAbXWUixEiWZko7fsG4PnnThWGCaCefEf1Voe",
+        "hex": "0x56def9cdbf60c73da102f2acb4f3384ced0c737f0ae13f434e75a065248fbe45"
+      },
+      "incentive": 0.008957045853360799,
+      "emission": 1326171315.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 154,
+      "hotkey": {
+        "ss58": "5GNd2MMhtcDew8XHDeMtzhfRozdG3x7UvExEezP2Y4DinknH",
+        "hex": "0xbe9b14e32273f3e278e498c092ec4e46894fdda2866bf31d69e14b7e4829af30"
+      },
+      "incentive": 0.008941786831464103,
+      "emission": 1324307088.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 17,
+      "hotkey": {
+        "ss58": "5FRwqYAU7i5it6X8dsnTXRo8Dr91AdYg6jZHa9QXbuVD9gVZ",
+        "hex": "0x94e7ea9b23e0eda4c1745be529597a050409e78a9d731418fb80a7cc7ab95a56"
+      },
+      "incentive": 0.008926527809567406,
+      "emission": 1323323489.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 121,
+      "hotkey": {
+        "ss58": "5DcRzqKCERy1Aa7a58yBnJzMeDZoidqj7JmXotvUDfHkHhdT",
+        "hex": "0x446eb311af5412dd97733e958fc73dbae01c97325abdc9e2e70e34a1ad057e55"
+      },
+      "incentive": 0.00886549172198062,
+      "emission": 1314381568.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 141,
+      "hotkey": {
+        "ss58": "5CD56FmbAf8CJg4ThGiKGQbFGeaNrvHDe9pYgakhL1ZTqAhh",
+        "hex": "0x066171b0c9afa12ba71fbff1bd67595775cc0632bb33a12d33eabb881ed12757"
+      },
+      "incentive": 0.008819714656290532,
+      "emission": 1306226609.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 131,
+      "hotkey": {
+        "ss58": "5CdUUtC49RXmoA45N6VfjcXDjwyFgLHAkvK6aBGVrgqbfVcp",
+        "hex": "0x18fe12708496201f57c46c822db9314ae4705cf3ae277ed9fb0044a942f1d25d"
+      },
+      "incentive": 0.008773937590600443,
+      "emission": 1300201300.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 65,
+      "hotkey": {
+        "ss58": "5D8HW6ieoePUVBXjokRbFk8TbQk57PXikrjxkY6ozyT5R2vi",
+        "hex": "0x2ef73ae34caf702311ceda46f826fc1418e6960e3e398474bebcdc23c3484727"
+      },
+      "incentive": 0.008758678568703746,
+      "emission": 1297903823.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 5,
+      "hotkey": {
+        "ss58": "5Gpdbzz7C4KQWqvX2Rrnoy3QDf5k7Y7zrnbBUT3WLqQ8P7GJ",
+        "hex": "0xd2716a41c7764d9fd9a42b4dbcefa56776092c9a3ab182a895c855217d8ba53f"
+      },
+      "incentive": 0.00874341954680705,
+      "emission": 1294471738.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 163,
+      "hotkey": {
+        "ss58": "5GxWtqmZZ8Xtd3JyxnN6fPRApaWwQW2M8SKMFum2SoUgV6cu",
+        "hex": "0xd874caa9b6dd50a6b70e7faae1028c2a7961311d9ee22d2ea2a4ad2dc7241b2b"
+      },
+      "incentive": 0.00869764248111696,
+      "emission": 1288340769.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 41,
+      "hotkey": {
+        "ss58": "5F48W93YnrnWsVV63s7xgWK7TWNGGzuKu6wipq3mCJu8NVgD",
+        "hex": "0x84446bc31ea36a955720daa2fd9cd7c0813547d0a245b5a605b952a39ec1da4f"
+      },
+      "incentive": 0.008621347371633479,
+      "emission": 1276776263.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 106,
+      "hotkey": {
+        "ss58": "5Gedb9QVQ2vAxoTPVqDsxFWLRJNi25fMx4VBmfvfPK4sJZQ8",
+        "hex": "0xcad0e9521b22db80dd61b15f2db6d797f3b711aaf6bdfb370bae1f635f36be4b"
+      },
+      "incentive": 0.008590829327840086,
+      "emission": 1273470582.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 187,
+      "hotkey": {
+        "ss58": "5HKUchvHTNVtzvskj4wmMLcfhxuaUdQreVLftKJfkcnkmQq8",
+        "hex": "0xe87146ab7b351ab7e75eda8c493b3b1c598e17168b256e68cb2920c6d8906a19"
+      },
+      "incentive": 0.008590829327840086,
+      "emission": 1271667421.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 44,
+      "hotkey": {
+        "ss58": "5FZrpSdHyfvKB1fqboQsivURiXZAMvQUjx1Q8xswJ3UACusb",
+        "hex": "0x9af0fc0da72f982ab062614ae9ffbae2b132cdaa226ee45aeb653ed0ec9e1430"
+      },
+      "incentive": 0.008545052262149997,
+      "emission": 1266980456.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 72,
+      "hotkey": {
+        "ss58": "5G1oEjwk9wMEovYNv2BnuQjar1fA8ebT7DxZneR5hMYKurTK",
+        "hex": "0xaeb94f67d5ea86100862e78e934724a7f9bf7f242b87381d39b2ccd1ecb2c558"
+      },
+      "incentive": 0.008545052262149997,
+      "emission": 1266006506.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 95,
+      "hotkey": {
+        "ss58": "5GC8FT7M8JBKstQjx4uMmgGJA3XmJVF7uNuXfacocioTFLHV",
+        "hex": "0xb699c3deb3c491f5898dd920cb98fa47faf726a87c804728ad7a27523e209c6c"
+      },
+      "incentive": 0.008529793240253299,
+      "emission": 1263689249.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 27,
+      "hotkey": {
+        "ss58": "5Df62JEvqfi6iWrMzT9A2Bt43cqYBDbkQtJGYcKTWukWVzwF",
+        "hex": "0x467531d6db60534d13c7b1481b3fdcea2a807232edd977001669bae4cab4ff16"
+      },
+      "incentive": 0.008499275196459906,
+      "emission": 1259939222.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 82,
+      "hotkey": {
+        "ss58": "5G7KYUz4YDJGkM4TetnGz8uhCLW7myLyWvvALVib1cHy2a6r",
+        "hex": "0xb2ef8e52760765bee4654d23c2d12b74315f2c61d94c4169a4b619ddd7ba1747"
+      },
+      "incentive": 0.008499275196459906,
+      "emission": 1259170663.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 96,
+      "hotkey": {
+        "ss58": "5Gdpck2EeurAmAEehXtiKpkxJyN7PV4DKCL6T2T2ekcaJ4XJ",
+        "hex": "0xca32c9b965a8c07c764354ceef5fa2b0c6e5254fa06ae3fe82b0e5e318678411"
+      },
+      "incentive": 0.008453498130769817,
+      "emission": 1251903362.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 191,
+      "hotkey": {
+        "ss58": "5HDhHCAWmhVEnFTA3mtwmvvtBbTPbp57CcXHXDsaUWk3xA94",
+        "hex": "0xe4086ed91da69e9304c7ed378ed2c455b9bc14c94327e8189c7bf2302409e266"
+      },
+      "incentive": 0.008453498130769817,
+      "emission": 1251476936.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 83,
+      "hotkey": {
+        "ss58": "5HKrVutB5MaMa3fmb1TZqgVaoZBRaJEtBcVuHjYwZ1ih95rD",
+        "hex": "0xe8baf0bac6562fef1a00eae611f3df1bbcb86518802b8c92cf910b7a4ea2a621"
+      },
+      "incentive": 0.008422980086976424,
+      "emission": 1246884672.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 57,
+      "hotkey": {
+        "ss58": "5Hb7mnyHYo5WCRhf6HrrisvGkNtzvhSFkwsmAYXeiYAiUmnb",
+        "hex": "0xf45f09a268c7224b66048d5c550f59499a503ff510ab3db0fe1b53454fea314b"
+      },
+      "incentive": 0.008392462043183032,
+      "emission": 1243690164.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 89,
+      "hotkey": {
+        "ss58": "5G4b5iAKNGR7vPDy9Y6ejexmo2EYJTskBSWn7yv5a38FMStz",
+        "hex": "0xb0da206c114ceb3e6a474ace0f7f06835a3aa28f00d6cce46fdb50fa3e127f02"
+      },
+      "incentive": 0.008392462043183032,
+      "emission": 1243082126.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 20,
+      "hotkey": {
+        "ss58": "5DZLE7brDjKXUFfHYwsTWgpRgLuZB4wUcuCP2ZAPqDbnaKcF",
+        "hex": "0x4211894a3a83cb656bd7d0eb8013a58cd25bc2c3b161e1432ad5385877274757"
+      },
+      "incentive": 0.008361943999389639,
+      "emission": 1238796085.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 81,
+      "hotkey": {
+        "ss58": "5D7fAXw6QL68FFcAqDVNn5qbf67uLTKWFTEhBTdTi4eqekET",
+        "hex": "0x2e7ce85cd8b4550c3d7c957c086608b972c97bd24e49b2b293ee8063e156fe3b"
+      },
+      "incentive": 0.008346684977492943,
+      "emission": 1237122224.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 122,
+      "hotkey": {
+        "ss58": "5CLuQJJxjgmB52BQkdA9hx8JtYwJ6Nxgm5yiL28BrWyFgfJ7",
+        "hex": "0x0c5acaa5ee5f88da5d44725f3a535b21e1d5e4a22419d7afdaa3b721bdba8120"
+      },
+      "incentive": 0.008346684977492943,
+      "emission": 1236937303.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 161,
+      "hotkey": {
+        "ss58": "5E2jLsyKEwHq1z1RxnSAAMA5bL1gTKkbvxzBGjpZEN9Wk6La",
+        "hex": "0x56f6fad0af0b03d5f36922232db2c372319f86f459e308cde06b77045d237a3d"
+      },
+      "incentive": 0.00827038986800946,
+      "emission": 1225474458.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 127,
+      "hotkey": {
+        "ss58": "5DSdSdm3B1Yu5ASaGYkWFiPaAGACSQbsUSN65WgDXrB5WUQ6",
+        "hex": "0x3cf4c5afda7c761fa50665c5538638077e40010bea23f4afc46507fd14f1d62f"
+      },
+      "incentive": 0.008209353780422675,
+      "emission": 1216829940.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 1,
+      "hotkey": {
+        "ss58": "5FuuRr44E1ynYa4aNkqJg71tHgRyDLtX3bQz69DQSJNuSdy5",
+        "hex": "0xaa3aae1b245c090377ab63736570f0ba7177920112c4c020e0a180fccb19b104"
+      },
+      "incentive": 0.008178835736629282,
+      "emission": 1210643557.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 9,
+      "hotkey": {
+        "ss58": "5DhkPikZoQwgrHdEp6c6jwjpS2gfTgpnRL1pJjqDbnPqrpQF",
+        "hex": "0x487cd9275be3f0899fe8349ad07ee3910f782e7f502bd5fc041b156de1f2376d"
+      },
+      "incentive": 0.008163576714732586,
+      "emission": 1210029868.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 125,
+      "hotkey": {
+        "ss58": "5Eo2Aix8ezygK2GXzHVdrGsCwTdCE1bzvAqm5L4pHeRRN5L6",
+        "hex": "0x78be6a4ba68818c4becd7c40e3cd893d71ed5e3e1413d0b06f91078b65284b17"
+      },
+      "incentive": 0.00814831769283589,
+      "emission": 1207028137.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 105,
+      "hotkey": {
+        "ss58": "5EPXZ74Nh3Yn5iCvQ3PAiGqyXHTkGJdGGbovzYmmYeFz8b8j",
+        "hex": "0x66d3727c529a816abd0cf5757d5f9363683612820c6d1a06c68e04436a11bf51"
+      },
+      "incentive": 0.008133058670939193,
+      "emission": 1204269704.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 111,
+      "hotkey": {
+        "ss58": "5Cz5AUsWQjFfSvc4GQd8WdhSAPEPDCTtQgZUhggCCsdfBfBv",
+        "hex": "0x28b3bb89b05281fc5c27c20152da8e31f2041e47b230b69a0c885ae38b9e3f46"
+      },
+      "incentive": 0.008133058670939193,
+      "emission": 1204894215.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 152,
+      "hotkey": {
+        "ss58": "5DwNdKxfmVz7pCampkZmtYSoPE3aZXj731efJuYrvpdUwN3U",
+        "hex": "0x52e103db447da9ffa906b054066ed2002ccea28b48102ed783f3f0e9bf558776"
+      },
+      "incentive": 0.008117799649042497,
+      "emission": 1202247782.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 70,
+      "hotkey": {
+        "ss58": "5FTmEfLFhjVYmonFckSeLQ8bcF8Ty9bHBzMCdFhsP5hJiHhN",
+        "hex": "0x964ab853739f04b5add6a49f829dc60ee30397684c50ee4830d974551e79ef0c"
+      },
+      "incentive": 0.008056763561455712,
+      "emission": 1193358380.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 148,
+      "hotkey": {
+        "ss58": "5Fqb27nr2MLC1MkcM8xLU6ADZUcN7TXWmm22ow8g5thYFXFJ",
+        "hex": "0xa6efba565176c661be6d85ca46233ea1889d7768b938b0baea317d98c738882b"
+      },
+      "incentive": 0.008041504539559013,
+      "emission": 1191706298.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 180,
+      "hotkey": {
+        "ss58": "5CDgkxCSY7P4kHrv2AmhHac2jBmqzFu2oLj7dJ7wfiDtFyMW",
+        "hex": "0x06d982b4aee8fd18d297553ca23362d4c0893e8a07c9952f40d02004767c1c6c"
+      },
+      "incentive": 0.007995727473868924,
+      "emission": 1184775341.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 18,
+      "hotkey": {
+        "ss58": "5EM548fjjrXXYBQ9cANBb2vrh6TNyicPDJHWdrhfuduE9oBk",
+        "hex": "0x64f3c045713017ccd2b6eb6482d31699d3d8740e3ed70142cc1cd50cd44bb16f"
+      },
+      "incentive": 0.00788891432059205,
+      "emission": 1169052164.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 172,
+      "hotkey": {
+        "ss58": "5FjwEoLPJzkz6EZWx7bHUhhp9EpwxRLZA6v5D58r12CMtcUW",
+        "hex": "0xa2a05147c9a750f9f0f1b3c30914c6578aaa4ae2a56327161cdf34609cd2256b"
+      },
+      "incentive": 0.00788891432059205,
+      "emission": 1168575700.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 179,
+      "hotkey": {
+        "ss58": "5HGSGGHg5iLqz9Dp3Zeq6tqFyHZgGUovLtcaWKfyYRhZUdgk",
+        "hex": "0xe61f9eecaef29e2d2092c448359815ec4927de574e4d81c7c1c812719add9944"
+      },
+      "incentive": 0.007873655298695353,
+      "emission": 1166524761.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 100,
+      "hotkey": {
+        "ss58": "5HQoYaRf8bXfCMjcMDbHJQwMM5SBvZjUeLMSENi2iUrDJ46o",
+        "hex": "0xec81391e64e84e29449540764a228de1ce6f36ff7d178e039b43084fda7dcb20"
+      },
+      "incentive": 0.007858396276798657,
+      "emission": 1164554737.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 185,
+      "hotkey": {
+        "ss58": "5C7zLmBahbUPn8b5AfoHQpcF67YMio113HBxizy8QCHLy73c",
+        "hex": "0x02813a4210f077baa4d56e0b94b9240783d01a2994588aad78af6b6a47c3a24d"
+      },
+      "incentive": 0.007827878233005264,
+      "emission": 1159062753.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 104,
+      "hotkey": {
+        "ss58": "5GFB8qNzqEeLck27peFPhoSjkyUpiN3ZTRpLaa5dYCEdKEqL",
+        "hex": "0xb8ed375b5a644094e318ac8f965e327336db56d07c2fb984629950e15aace62f"
+      },
+      "incentive": 0.007812619211108568,
+      "emission": 1158351882.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 176,
+      "hotkey": {
+        "ss58": "5FsXrCmvsx8wV9JBkaW868wV7nfp5FHHm1rPfqsXxpzaEArH",
+        "hex": "0xa86b8b5c6ea8af24ec4687f301f7c6b23655ea9807ceb09a2094a22df438f618"
+      },
+      "incentive": 0.007812619211108568,
+      "emission": 1158295985.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 157,
+      "hotkey": {
+        "ss58": "5FQzNgPzfq5kEii455TiaUQ5DG5DncejQn9VyRBPe2hjdCBu",
+        "hex": "0x942d360a3d453e32b215c7d6474060cd3c33aba2a7a61aef41470ba021ab867b"
+      },
+      "incentive": 0.007797360189211872,
+      "emission": 1154403357.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 6,
+      "hotkey": {
+        "ss58": "5EP7ZsREgjdTCkAGxuLi1aqrStNQKonHwzB6hPMCRC5Y5jkt",
+        "hex": "0x6682b34d43f7c81a05fbdf3cd07b3a81867bcaa268c2c3d10025ab2189936575"
+      },
+      "incentive": 0.007766842145418479,
+      "emission": 1149668767.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 73,
+      "hotkey": {
+        "ss58": "5Fk5EwBbs4ZFN9Z2gEHNgYSut2r1UCtrVjvSpmatxZp2AaBC",
+        "hex": "0xa2bb41793c8447cf9a109328b8ee5038307f84f97186316957270c6c404b182d"
+      },
+      "incentive": 0.007766842145418479,
+      "emission": 1151487987.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 181,
+      "hotkey": {
+        "ss58": "5GEmYMP1S8BqSTE8C78Negs26ywnFVA8DNy8E8NfdfrUqfkL",
+        "hex": "0xb89dca3b630cd96ea8b06cb864db4831eee74de6c477c4d6a49c762ac7240651"
+      },
+      "incentive": 0.0077515831235217825,
+      "emission": 1149311677.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 56,
+      "hotkey": {
+        "ss58": "5GUKf4Za4u9jvGdQYCXPM3uDbvniUHTGqxzmrZ6V8GxicnBe",
+        "hex": "0xc2f4175ddd09c7ce2b456122b095a0aff4ad4b1bc0589da0d4030a11c2786c28"
+      },
+      "incentive": 0.007736324101625086,
+      "emission": 1146040251.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 0,
+      "hotkey": {
+        "ss58": "5EqwituVFv8J8TqA8qujsgVMTY26wCVrsWcpB9ea6KAwusms",
+        "hex": "0x7af92fe9b3ae39906dad179e85204c03de24f65d170a0dbbbfb0ec1c5b1fd405"
+      },
+      "incentive": 0.00772106507972839,
+      "emission": 1144767452.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 138,
+      "hotkey": {
+        "ss58": "5CthZTATrnjUnfukKepYHHLPTGpFw4VjakfzX1NFdvt1arHk",
+        "hex": "0x249ac7b7e12106c194f6bc60b63908010bc2a0f009b29bf45172a837b7496949"
+      },
+      "incentive": 0.00772106507972839,
+      "emission": 1144070228.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 162,
+      "hotkey": {
+        "ss58": "5DMKz9HJYLyt1ipjPW5rHjswE8mW9z5YrWzrX4RMt59ga9NS",
+        "hex": "0x38e9c7d2f5c19ba562fb91b293fc5f47b057e0c6e7a7495a8a8dc32ba42abd74"
+      },
+      "incentive": 0.007644769970244907,
+      "emission": 1132433283.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 168,
+      "hotkey": {
+        "ss58": "5Gq58GnSQYNCJB5aHNaip9gJY96WSWW1WwATMHC17TSK7SCZ",
+        "hex": "0xd2c7545e877d027f1328c6265ad3c06241f1de0c480329e5c8373f8bd84ba354"
+      },
+      "incentive": 0.0075837338826581216,
+      "emission": 1123296931.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 194,
+      "hotkey": {
+        "ss58": "5Ci1Z43KZHWafDyCAGaUovjYdXDWJrpxzeZUmjars5cnkSpi",
+        "hex": "0x1c73a6a59288f52f31673f240a9ce1b721b24c5f1be059eb8ddd08e4d942b963"
+      },
+      "incentive": 0.0075837338826581216,
+      "emission": 1123393147.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 143,
+      "hotkey": {
+        "ss58": "5Cf81hDSe8cfHstMUVSdAD3WmeT525ZzjQSodyacGNnCKeXc",
+        "hex": "0x1a3fa8a5f5096c0399a02ca51988d2077ef8d81dbbfeb56966f4aa3b7d6a9b2e"
+      },
+      "incentive": 0.007568474860761425,
+      "emission": 1121445593.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 169,
+      "hotkey": {
+        "ss58": "5FA1f2REqUWYf65CYAayJZPdRaV1ySDB2prmBMF2jKf7UU8m",
+        "hex": "0x88c0d851ca8c3fbc15c1896100fe4ab6c3a085644c2149f1c2c38f0e85363f44"
+      },
+      "incentive": 0.007553215838864729,
+      "emission": 1119196362.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 158,
+      "hotkey": {
+        "ss58": "5CQGj3UVZfjAuBAA1qXfLuipeopeCZGxrMQB3EVwtRV6P7oN",
+        "hex": "0x0eec4eda2f59abd75ccaaa5934e910e92b0efc28b4da8705a3926ca69d2e486e"
+      },
+      "incentive": 0.0075379568169680325,
+      "emission": 1117262041.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 80,
+      "hotkey": {
+        "ss58": "5FdsxcNwFQyBvnAcLuUgLGDMmhVFPsrtmxZSAF3x2LCZZg9t",
+        "hex": "0x9e01ce7bd86892e89b7147b713c5d73e1f40c377158ec8d5ebb8a9f4991a2d4f"
+      },
+      "incentive": 0.007492179751277943,
+      "emission": 1109904864.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 198,
+      "hotkey": {
+        "ss58": "5CRn2giTYy2hvHGVJgVGnftHD9BY1kYBwaCQiPASZwCDNNb5",
+        "hex": "0x101233375fa72e25b14ce88a7464c15696e433b088f0954655b6c268d4fa0c71"
+      },
+      "incentive": 0.007476920729381247,
+      "emission": 1107740961.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 123,
+      "hotkey": {
+        "ss58": "5C8NtXpQc7s1kpuJsLryUKsLiw9ydv8Xd6ATMSjEPAcgg4LG",
+        "hex": "0x02cd214c12e19b47cd720cdc51b052753f33d0eb4cf483f45d8379e22721a67c"
+      },
+      "incentive": 0.007415884641794461,
+      "emission": 1098340082.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 128,
+      "hotkey": {
+        "ss58": "5Cu29hVT93vnydccxgnWUzPTZMZStMY1taj97bH3HqJh9Gx3",
+        "hex": "0x24d95c79fc975db8134f988d9f04d86559784df507188b908705ce04ea80d264"
+      },
+      "incentive": 0.007309071488517586,
+      "emission": 1082615803.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 12,
+      "hotkey": {
+        "ss58": "5GLGJE2N8mmQFd3ZzeQBLTGkFiycXRmF42uTHvkbWSHjyus5",
+        "hex": "0xbcced1dcdfdb35e695a64a22ae999412e251f31b7d91fae992f898e9d7412647"
+      },
+      "incentive": 0.007263294422827497,
+      "emission": 1075763556.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 61,
+      "hotkey": {
+        "ss58": "5G45KoT1yFpWwbr6MsjaH857TJkLitW6EkEkPVqc58JYUTcA",
+        "hex": "0xb075f49b3834c2fdf9d57c649e55417056a4117c4c08f339c68135ef0535be76"
+      },
+      "incentive": 0.007263294422827497,
+      "emission": 1075643285.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 116,
+      "hotkey": {
+        "ss58": "5Hfz1HwrhFjDZVptYyVLKGjEWXvWeouPW3McBhvnL5Z22RZ1",
+        "hex": "0xf8151e25ef5aef5083f309072b91b108c1db879512cb0c40b32e06c2a3004b10"
+      },
+      "incentive": 0.007186999313344014,
+      "emission": 1064078641.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 118,
+      "hotkey": {
+        "ss58": "5HYe1QCUVvocWk4r1rni42wZfRXYgjxYEfWEMGrGiN73Vk68",
+        "hex": "0xf27b14875f12cf700e95b2df9644c3fce5202561e6569b000b5e5213e6222c5d"
+      },
+      "incentive": 0.007186999313344014,
+      "emission": 1063925218.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 177,
+      "hotkey": {
+        "ss58": "5Ei7EFn2eiU6kic41CmwWn1id9Mht7DtjDd2AhH43G3d7iwf",
+        "hex": "0x74ff39836650b0656688ea0d89f58d61cda36b1c819ec95b4001613d566f8966"
+      },
+      "incentive": 0.00708018616006714,
+      "emission": 1049171787.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 92,
+      "hotkey": {
+        "ss58": "5Cr6Szy64vMMCFR2UWue6Wc5aLUTu6fC7pZHa85H9ZfATJDz",
+        "hex": "0x229e1829b17a4c43e37bdc65d86fe4e49efdf55902ddf7525b67e8ff2fe03e3e"
+      },
+      "incentive": 0.007034409094377051,
+      "emission": 1041598261.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 13,
+      "hotkey": {
+        "ss58": "5ExYmbwgJxEiStxLiykaiTzjVGduJuH6HesSz5byMR9yftyu",
+        "hex": "0x8002a321bf6d8b358a9461c56214a1a6d6038da2e1f9e76b208b1c4138b8aa20"
+      },
+      "incentive": 0.0069886320286869615,
+      "emission": 1035178713.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 134,
+      "hotkey": {
+        "ss58": "5DvTaKvkpQRzBkgbK4av8DBDNTkgvtEL65d9XgDiiHQyjHdi",
+        "hex": "0x522e6d506ea4a28be3eea2ebf9ac765549b3862adc9eb490b2af55f0dde62746"
+      },
+      "incentive": 0.006744487678339819,
+      "emission": 998464718.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 63,
+      "hotkey": {
+        "ss58": "5FES4XMPu9cuoqrh6Rua2iSsVzxqTxeBGMjtEcJSTNacwrtM",
+        "hex": "0x8c1ffb4f9200ea8b7da3aeb8936472c1daed03877a341626715594a50b3ca220"
+      },
+      "incentive": 0.006515602349889372,
+      "emission": 966487313.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 156,
+      "hotkey": {
+        "ss58": "5GCDsMeKN59j7yMpdhb5yFQGJfbvZY9pCXusDcakNBdyB2SN",
+        "hex": "0xb6acae3a2c3d0fd88689082d983a31f9dab221a3d1b522bf07cd94ac24eeb738"
+      },
+      "incentive": 0.006332494087129015,
+      "emission": 938330305.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 36,
+      "hotkey": {
+        "ss58": "5GbhpZ3emmwnWmt3G4idX6Tivy6CWpNW5Kci4oncthZdChKX",
+        "hex": "0xc8956b2751d22405291e0fad926e5e922942a47ed9ae5872a04377c52fc74564"
+      },
+      "incentive": 0.006317235065232319,
+      "emission": 936307969.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 145,
+      "hotkey": {
+        "ss58": "5Ecpznedthw3X7ey8zMY5w9KUCvotoQgo5srbJGJdSwWmqgS",
+        "hex": "0x70f85aecdc3aeacce27f8db3a61fb89837428b72e18d2b51bee53fa36541ef2d"
+      },
+      "incentive": 0.006210421911955443,
+      "emission": 921214058.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 66,
+      "hotkey": {
+        "ss58": "5CGMNU8Uncwo9onFhapUVd6gtHTmnwbHGKiVtNu712V9a712",
+        "hex": "0x08e1fb6c4c13443d4fef902d2ca82a647e248edc44e9f251cb890c0546f1fd2c"
+      },
+      "incentive": 0.0061799038681620505,
+      "emission": 915155182.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 58,
+      "hotkey": {
+        "ss58": "5Dy2KJa26S6915V8sahE47VrvGx5Rcq6j2cGET4V28CRBNbU",
+        "hex": "0x5423223e84a014f91902468b90347c32598fcbf54f55b6d5ff19737adc736f17"
+      },
+      "incentive": 0.0007629510948348211,
+      "emission": 113909034.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 51,
+      "hotkey": {
+        "ss58": "5C8GpEUHWZgtv3ZAtY5csVuGJddDi1hppkUp7LMAzjbgXmCt",
+        "hex": "0x02b8aec8a647071dddce45f69965c542b02b0911dbd3357f1fed5352c1da4f61"
+      },
+      "incentive": 0.0006103608758678569,
+      "emission": 92140628.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 110,
+      "hotkey": {
+        "ss58": "5CwgEm9HtsTZZfD8RpwZY6uc14MjjAHiTJtZxbqECQhFZMaT",
+        "hex": "0x26e010b793918d8369eeaa064db5809ff643ca30987ce79dcec735bd8d983f6a"
+      },
+      "incentive": 0.0005493247882810712,
+      "emission": 83405476.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 22,
+      "hotkey": {
+        "ss58": "5DFHPkQqx8u1qF3eUNDwdzi1V7fsqm7mzCAtoi8jxxDCf7SF",
+        "hex": "0x344d944d2b0e93a4e2a7e46534911502281375133c26e990385677047cfb7554"
+      },
+      "incentive": 0.0005188067444876783,
+      "emission": 78861182.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 74,
+      "hotkey": {
+        "ss58": "5CqydrNdnyygewacJ8by2zyT6fCxXzVCdyQo4orP2C4Nr9D6",
+        "hex": "0x228728fdc136e71d8e0f4a92dd4a6fa65c5698138773aabf7b1cdf2ee9973239"
+      },
+      "incentive": 0.0005188067444876783,
+      "emission": 77493406.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 186,
+      "hotkey": {
+        "ss58": "5DkULBseimf5gAuVcGZSvFKcLT1mh6FXqUabXUuNh2R2q5NE",
+        "hex": "0x4a9084c64c096bb479f64492576baab7d9091f9692eb2f0777b8fc4ef96f3a4f"
+      },
+      "incentive": 0.0004730296787975891,
+      "emission": 70668591.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 196,
+      "hotkey": {
+        "ss58": "5EHFnvcirpxc7oGYrxMaHzEPYJ5NGbp2UJDuazLqPamzokcm",
+        "hex": "0x620aea84bcbefc0a1745000181cfee91fa07df50babcbba59aaf3e75eeb50606"
+      },
+      "incentive": 0.0004730296787975891,
+      "emission": 71982261.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 64,
+      "hotkey": {
+        "ss58": "5EsbpvQYSrRwDyjq39QVpcNZMhz79dJsDLPZvL6KbBpVjrKv",
+        "hex": "0x7c3cb3a3100fb28c8601ee74aa2640285c8003ea1dfc729dad2a0e23d73ef64e"
+      },
+      "incentive": 0.00044251163500419623,
+      "emission": 65898850.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 25,
+      "hotkey": {
+        "ss58": "5H9ZHX68ucKo3hCxTdXjutvzpn9hMGh6WuHMww19iEamVJkv",
+        "hex": "0xe0e08a382ff4bb2de3fadcf07771f4df497321a264352f9199fe711e8bc09e7c"
+      },
+      "incentive": 0.00039673456931410697,
+      "emission": 59634446.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 43,
+      "hotkey": {
+        "ss58": "5F76Gvdaw43uk8SE1hpcaYJH91rH7fKyeidnmm8BrnK8dfcp",
+        "hex": "0x8686a859e6ee9b72bc952f0f143be856a5c851be272df7c7f875690b691e0c4e"
+      },
+      "incentive": 0.00038147554741741054,
+      "emission": 58515276.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 71,
+      "hotkey": {
+        "ss58": "5DkvJSieheazG4JYuZm5CjLouPv21UQDpjcFB52hqdvAeSpU",
+        "hex": "0x4ae7f0f457f1b6d626822c1ea285874319cc48cd3f60fa3e581aac2d42135a62"
+      },
+      "incentive": 0.00038147554741741054,
+      "emission": 57385974.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 146,
+      "hotkey": {
+        "ss58": "5ECRv1H6nocSYEsQUTuQ3yjzPqCBBVPcniBRSjViu4BmYgNW",
+        "hex": "0x5e5cc354944e4acacc7c1f081516b3960d2aaf5cb6b5a2af16250e2ccfade453"
+      },
+      "incentive": 0.0003662165255207141,
+      "emission": 56290169.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 147,
+      "hotkey": {
+        "ss58": "5GbuPykyzBcjLetnvDFVkoohjm3iBhLHn23fExxRBruhuRpf",
+        "hex": "0xc8bc634deb875e0db871c4a249e4499d99dc0a9fdeba34f9dfd83667745ca35c"
+      },
+      "incentive": 0.0003662165255207141,
+      "emission": 56156734.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 40,
+      "hotkey": {
+        "ss58": "5Do3TZLRiLjaetAPBip2QjYmzM25J6KM32r9Gk5MF9ShL7F5",
+        "hex": "0x4c86866dfed5d5a58e236413710f1e03e1d6e477ac3ba16296da4f4865b81b64"
+      },
+      "incentive": 0.0003509575036240177,
+      "emission": 53419047.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 24,
+      "hotkey": {
+        "ss58": "5FxKfFTGcPhJXBXUvdrH2tJR6YfSqgeHrGW1k2V2uUvFZt6N",
+        "hex": "0xac12bd738532a47104cf772b9a1b8424fbfd1b2bcd520edb1a2cdf7936e69322"
+      },
+      "incentive": 0.0003356984817273213,
+      "emission": 50288017.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 112,
+      "hotkey": {
+        "ss58": "5E75dNwRhstZoDpLLTWUPrgvydHajNyDSHhiw3r6woc6Es85",
+        "hex": "0x5a483eb77f8c0a45661a6cfb021434f09a6cae7633d6075c9650538c7bf27c3b"
+      },
+      "incentive": 0.0003356984817273213,
+      "emission": 51084766.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 199,
+      "hotkey": {
+        "ss58": "5FZLvopo8o7gxwUrFDRjJbG3PCZvQmqSpCrq4S4QbQWnTv3y",
+        "hex": "0x9a8c5d72b9d623cf0e5b8c9d134c641e831b30cce4740f12e7949db3a1685e37"
+      },
+      "incentive": 0.00032043945983062486,
+      "emission": 48114671.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 53,
+      "hotkey": {
+        "ss58": "5HT2T4J3E9J8cYGsfn92cZ7AkSp2e4oU91vjtPKe1kazJFvm",
+        "hex": "0xee3327cd80dc0aed8cadd5d4c315a32159369efaacfaf76256c1a462619e2964"
+      },
+      "incentive": 0.00030518043793392844,
+      "emission": 46547708.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 195,
+      "hotkey": {
+        "ss58": "5FnGeFEgvBVyFdoreCYssvpfQ4iifLLEKfXNEeocHGuTp4Tb",
+        "hex": "0xa46820fbe1627122ec8f7289d5caded0499722206cd309226a5d8efe5dd7fb7b"
+      },
+      "incentive": 0.00030518043793392844,
+      "emission": 45211707.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 94,
+      "hotkey": {
+        "ss58": "5E2graohixWVdmXNhygU4WoQvEyC2W7tVNoJXpK5rgX2sYmx",
+        "hex": "0x56ee9ad8061d2d91ba9de0e3d8640a64e4f9318570972c08e5d46abdff01d32f"
+      },
+      "incentive": 0.000289921416037232,
+      "emission": 43448383.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 144,
+      "hotkey": {
+        "ss58": "5EZXq4aHQShNkJSCVsqvuePugvmN6nTWtzoRdE1HRakJEcNN",
+        "hex": "0x6e74d3d09773e625297b458784d07b1ea58fb233d5ed90253d0606e6a037424c"
+      },
+      "incentive": 0.0002746623941405356,
+      "emission": 42356851.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 37,
+      "hotkey": {
+        "ss58": "5F1ECRSjH9ukbKPfkg5ktK25KhjJx4ohCaDsJZwqMajDrT4P",
+        "hex": "0x820ddaaed924bb0c86684f30a44c34670a4616345c220d3e0b1028785d331436"
+      },
+      "incentive": 0.00025940337224383917,
+      "emission": 39041452.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 151,
+      "hotkey": {
+        "ss58": "5H3wG8Q1gg9ofufVZVcVwtGkTBFHWcdGNiDgsUGSzcD8fsSY",
+        "hex": "0xdc970b9bf33eb457eb03eaf271d198874c790d268d0f50799d81192a764ece33"
+      },
+      "incentive": 0.00025940337224383917,
+      "emission": 40124920.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 38,
+      "hotkey": {
+        "ss58": "5CJP3BjTv4bkWaCaw69kpwGD1qwvkWDR3KQjtYS4bLwPppSm",
+        "hex": "0x0a6e161c40defbb183dbefb213a93cdff23cfe30bc0398d02049331caf5d540b"
+      },
+      "incentive": 0.00024414435034714275,
+      "emission": 37110507.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 52,
+      "hotkey": {
+        "ss58": "5GuRoSzD5LFLHD86dBEbeXATWX5wn4MQrTX22knQwag9nVu2",
+        "hex": "0xd619e9338d34f4608fe8ce2bd56954c7460e50becbc906e78bc775e8b949d90e"
+      },
+      "incentive": 0.00024414435034714275,
+      "emission": 37516188.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 49,
+      "hotkey": {
+        "ss58": "5HCHGKV2qsYU6Z7D1WKBEzN3NzmenSGSUXDBmB6hWqopwt2Z",
+        "hex": "0xe2f4587e6968019e527e8222feac9f5dfd64b8430c2927790b11f06e77e51240"
+      },
+      "incentive": 0.00022888532845044633,
+      "emission": 35199275.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 160,
+      "hotkey": {
+        "ss58": "5Chb9nCmDjmhJ2U41d6wsEm7iRYDkwaqfsY2MGWZgodEcRrd",
+        "hex": "0x1c21824df48e66e4e6acd8612a1971a8a4de9f889bf254a8c8730d025cea7805"
+      },
+      "incentive": 0.00018310826276035706,
+      "emission": 27278654.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 164,
+      "hotkey": {
+        "ss58": "5HTSxaa4RJtMtKwAvUL5fSNjxS5fdPzreGCsqUp6DF23eYv9",
+        "hex": "0xee85a8fe2a1b7e3a414a398386b6430130c1cc71d5de23cdbca209892e132838"
+      },
+      "incentive": 0.00018310826276035706,
+      "emission": 28149564.0,
+      "rank": 0.0
+    },
+    {
+      "uid": 76,
+      "hotkey": {
+        "ss58": "5DqP7owBeEG4gzmvzXzyHn59Vc7HxU9rAWwMeCPXPwRra9Z6",
+        "hex": "0x4e4f321c29e3e481491afdb54b22080bad44e06806f5072a0bb71b578edf3633"
+      },
+      "incentive": 6.103608758678569e-05,
+      "emission": 10611647.0,
+      "rank": 0.0
+    }
+  ]
+}

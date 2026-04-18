@@ -1,0 +1,37 @@
+netuid,name,categorias_match,emission_tao_day,miners_count,github_url,readme_keywords_found
+34,BitMind,data_collection,77.7603,54,https://github.com/BitMind-AI/bitmind-subnet,dataset
+85,Vidaio,data_collection|networking|storage,72.0047,100,https://github.com/vidaio-subnet/vidaio-subnet,"dataset, bandwidth, storage"
+50,Synth,oracle|storage,64.1723,235,https://github.com/mode-network/synth-subnet,"oracle, predict, forecast, storage"
+1,Apex,networking,60.3784,3,https://github.com/macrocosm-os/apex,bandwidth
+105,Beam,networking,55.1097,9,https://github.com/orgs/Beam-Network/repositories,bandwidth
+33,ReadyAI,api_service|data_collection|indexing|monitoring|networking|scraping|storage,48.5742,232,https://github.com/afterpartyai/bittensor-conversation-genome-project,"endpoint, dataset, data pipeline, index, monitor, bandwidth, scrape, storage"
+14,TAOHash,compute_light|indexing|monitoring|networking,48.3616,5,https://github.com/latent-to/taohash,"hash, index, monitor, proxy"
+13,Data Universe,data_collection|indexing|oracle|scraping|storage,44.0829,239,https://github.com/macrocosm-os/data-universe,"data collection, dataset, index, predict, forecast, scrape, scraping, storage"
+54,Yanez MIID,data_collection,41.7407,185,https://github.com/yanez-compliance/MIID-subnet,dataset
+18,Zeus,data_collection|oracle,38.017,11,https://github.com/Orpheus-AI/Zeus,"dataset, predict, forecast"
+71,Leadpoet,compute_light|indexing|networking|scraping|storage,36.9923,186,https://github.com/leadpoet/leadpoet,"hash, search engine, proxy, scrape, scraping, crawl, web scraping, storage"
+12,Compute Horde,compute_light|monitoring|storage,36.263,7,https://github.com/backend-developers-ltd/ComputeHorde/,"compute task, monitor, storage"
+126,Poker44,data_collection|oracle,35.4564,232,https://github.com/Poker44/Poker44-subnet,"dataset, predict"
+103,Djinn,compute_light|indexing|monitoring|oracle|scraping,31.536,245,https://github.com/Djinn-Inc/djinn/,"hash, index, indexing, monitor, health check, predict, scrape"
+41,Almanac,data_collection|networking|oracle,29.4212,36,https://github.com/sportstensor/sn41,"data ingestion, proxy, predict, prediction market"
+48,Quantum Compute,api_service|data_collection,28.5153,6,https://github.com/qbittensor-labs/quantum-compute,"endpoint, dataset"
+6,Numinous,networking|oracle,27.8683,53,https://github.com/numinouslabs/numinous,"proxy, predict, forecast, prediction market"
+22,Desearch,api_service|indexing|monitoring|scraping,26.8287,143,https://github.com/datura-ai/desearch,"api service, endpoint, search engine, monitor, scrape, web data"
+73,MetaHash,compute_light|oracle|storage,25.6859,6,https://github.com/fx-integral/metahash,"hash, data feed, ipfs"
+123,MANTIS,oracle|storage,24.512,251,https://github.com/Barbariandev/MANTIS,"forecast, storage"
+45,Talisman AI,api_service|compute_light|oracle,23.6224,6,https://github.com/Team-Rizzo/talisman-ai,"endpoint, hash, market data"
+77,Liquidity,api_service|indexing|monitoring,23.3542,11,https://github.com/creativebuilds/sn77,"endpoint, index, monitor"
+65,TAO Private Network,api_service|networking,23.3011,25,https://github.com/taofu-labs/tpn-subnet,"endpoint, vpn, bandwidth"
+59,Babelbit,api_service|data_collection|monitoring|oracle|storage,22.1949,164,https://github.com/babelbit/babelbit_subnet,"endpoint, dataset, monitor, predict, storage, object storage"
+88,Investing,oracle,21.6905,116,https://github.com/mobiusfund/investing,market data
+79,MVTRX,api_service|data_collection|monitoring|networking,21.676,234,https://github.com/taos-im/sn-79,"endpoint, dataset, monitor, alert, proxy"
+111,oneoneone,api_service|data_collection|scraping|storage,21.624,251,https://github.com/oneoneone-io/subnet-111,"endpoint, data collection, scraping, storage"
+89,InfiniteHash,compute_light|indexing|monitoring|storage,20.2736,3,https://github.com/backend-developers-ltd/InfiniteHash,"hash, index, monitor, storage"
+80,dogelayer,compute_light|indexing|monitoring|networking|storage,18.7201,14,https://github.com/dogelayer-ai/dogelayer,"hash, index, monitor, proxy, storage"
+128,ByteLeap,compute_light|monitoring,18.6938,42,https://github.com/byteleapai/byteleap-Miner,"compute task, monitor"
+116,TaoLend,monitoring|networking|oracle,18.5908,4,https://github.com/xpenlab/taolend,"monitor, proxy, oracle, price oracle"
+72,StreetVision by NATIX,data_collection|oracle,18.5074,250,https://github.com/natixnetwork/streetvision-subnet,"dataset, predict"
+82,Hermes,api_service|indexing|monitoring,18.0921,248,https://github.com/SN-Hermes/hermes-subnet,"endpoint, index, indexing, monitor, uptime"
+117,BrainPlay,api_service|monitoring,17.3926,3,https://github.com/shiftlayer-llc/brainplay-subnet,"endpoint, uptime"
+57,Sparket.AI,indexing|oracle,17.2813,9,https://github.com/sparket-ai/sparket-ai,"index, predict"
+118,HODL Exchange,indexing,15.9859,62,https://github.com/mobiusfund/etf,index

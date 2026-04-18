@@ -1,0 +1,362 @@
+[
+  {
+    "netuid": 34,
+    "name": "BitMind",
+    "categorias_match": "data_collection",
+    "emission_tao_day": 77.7603,
+    "miners_count": 54,
+    "github_url": "https://github.com/BitMind-AI/bitmind-subnet",
+    "readme_keywords_found": "dataset",
+    "description": ""
+  },
+  {
+    "netuid": 85,
+    "name": "Vidaio",
+    "categorias_match": "data_collection|networking|storage",
+    "emission_tao_day": 72.0047,
+    "miners_count": 100,
+    "github_url": "https://github.com/vidaio-subnet/vidaio-subnet",
+    "readme_keywords_found": "dataset, bandwidth, storage",
+    "description": "Next-Generation Video Processing Powered By AI"
+  },
+  {
+    "netuid": 50,
+    "name": "Synth",
+    "categorias_match": "oracle|storage",
+    "emission_tao_day": 64.1723,
+    "miners_count": 235,
+    "github_url": "https://github.com/mode-network/synth-subnet",
+    "readme_keywords_found": "oracle, predict, forecast, storage",
+    "description": "Predictive intelligence for financial markets and beyond"
+  },
+  {
+    "netuid": 1,
+    "name": "Apex",
+    "categorias_match": "networking",
+    "emission_tao_day": 60.3784,
+    "miners_count": 3,
+    "github_url": "https://github.com/macrocosm-os/apex",
+    "readme_keywords_found": "bandwidth",
+    "description": "Open competitions for algorithmic and agentic optimization"
+  },
+  {
+    "netuid": 105,
+    "name": "Beam",
+    "categorias_match": "networking",
+    "emission_tao_day": 55.1097,
+    "miners_count": 9,
+    "github_url": "https://github.com/orgs/Beam-Network/repositories",
+    "readme_keywords_found": "bandwidth",
+    "description": "Decentralized bandwidth. A global network. Powering the open internet."
+  },
+  {
+    "netuid": 33,
+    "name": "ReadyAI",
+    "categorias_match": "api_service|data_collection|indexing|monitoring|networking|scraping|storage",
+    "emission_tao_day": 48.5742,
+    "miners_count": 232,
+    "github_url": "https://github.com/afterpartyai/bittensor-conversation-genome-project",
+    "readme_keywords_found": "endpoint, dataset, data pipeline, index, monitor, bandwidth, scrape, storage",
+    "description": ""
+  },
+  {
+    "netuid": 14,
+    "name": "TAOHash",
+    "categorias_match": "compute_light|indexing|monitoring|networking",
+    "emission_tao_day": 48.3616,
+    "miners_count": 5,
+    "github_url": "https://github.com/latent-to/taohash",
+    "readme_keywords_found": "hash, index, monitor, proxy",
+    "description": "TAOHash is a Subnet for decentralizing PoW mining hashrate- rental and financialization. Validators "
+  },
+  {
+    "netuid": 13,
+    "name": "Data Universe",
+    "categorias_match": "data_collection|indexing|oracle|scraping|storage",
+    "emission_tao_day": 44.0829,
+    "miners_count": 239,
+    "github_url": "https://github.com/macrocosm-os/data-universe",
+    "readme_keywords_found": "data collection, dataset, index, predict, forecast, scrape, scraping, storage",
+    "description": "Scraping the world's social media data"
+  },
+  {
+    "netuid": 54,
+    "name": "Yanez MIID",
+    "categorias_match": "data_collection",
+    "emission_tao_day": 41.7407,
+    "miners_count": 185,
+    "github_url": "https://github.com/yanez-compliance/MIID-subnet",
+    "readme_keywords_found": "dataset",
+    "description": "Yanez MIID generates synthetic identities for testing financial crime prevention systems"
+  },
+  {
+    "netuid": 18,
+    "name": "Zeus",
+    "categorias_match": "data_collection|oracle",
+    "emission_tao_day": 38.017,
+    "miners_count": 11,
+    "github_url": "https://github.com/Orpheus-AI/Zeus",
+    "readme_keywords_found": "dataset, predict, forecast",
+    "description": "Pushing weather forecasts beyond state-of-the-art"
+  },
+  {
+    "netuid": 71,
+    "name": "Leadpoet",
+    "categorias_match": "compute_light|indexing|networking|scraping|storage",
+    "emission_tao_day": 36.9923,
+    "miners_count": 186,
+    "github_url": "https://github.com/leadpoet/leadpoet",
+    "readme_keywords_found": "hash, search engine, proxy, scrape, scraping, crawl, web scraping, storage",
+    "description": "Intent-driven AI for modern sales teams."
+  },
+  {
+    "netuid": 12,
+    "name": "Compute Horde",
+    "categorias_match": "compute_light|monitoring|storage",
+    "emission_tao_day": 36.263,
+    "miners_count": 7,
+    "github_url": "https://github.com/backend-developers-ltd/ComputeHorde/",
+    "readme_keywords_found": "compute task, monitor, storage",
+    "description": ""
+  },
+  {
+    "netuid": 126,
+    "name": "Poker44",
+    "categorias_match": "data_collection|oracle",
+    "emission_tao_day": 35.4564,
+    "miners_count": 232,
+    "github_url": "https://github.com/Poker44/Poker44-subnet",
+    "readme_keywords_found": "dataset, predict",
+    "description": "Decentralized Poker Platform with Bot Dection"
+  },
+  {
+    "netuid": 103,
+    "name": "Djinn",
+    "categorias_match": "compute_light|indexing|monitoring|oracle|scraping",
+    "emission_tao_day": 31.536,
+    "miners_count": 245,
+    "github_url": "https://github.com/Djinn-Inc/djinn/",
+    "readme_keywords_found": "hash, index, indexing, monitor, health check, predict, scrape",
+    "description": "Information X Execution"
+  },
+  {
+    "netuid": 41,
+    "name": "Almanac",
+    "categorias_match": "data_collection|networking|oracle",
+    "emission_tao_day": 29.4212,
+    "miners_count": 36,
+    "github_url": "https://github.com/sportstensor/sn41",
+    "readme_keywords_found": "data ingestion, proxy, predict, prediction market",
+    "description": "Incentivized market intelligence."
+  },
+  {
+    "netuid": 48,
+    "name": "Quantum Compute",
+    "categorias_match": "api_service|data_collection",
+    "emission_tao_day": 28.5153,
+    "miners_count": 6,
+    "github_url": "https://github.com/qbittensor-labs/quantum-compute",
+    "readme_keywords_found": "endpoint, dataset",
+    "description": "Quantum Computing"
+  },
+  {
+    "netuid": 6,
+    "name": "Numinous",
+    "categorias_match": "networking|oracle",
+    "emission_tao_day": 27.8683,
+    "miners_count": 53,
+    "github_url": "https://github.com/numinouslabs/numinous",
+    "readme_keywords_found": "proxy, predict, forecast, prediction market",
+    "description": "Numinous is a forecasting protocol whose goal is to aggregate agents into superhuman LLM forecasters"
+  },
+  {
+    "netuid": 22,
+    "name": "Desearch",
+    "categorias_match": "api_service|indexing|monitoring|scraping",
+    "emission_tao_day": 26.8287,
+    "miners_count": 143,
+    "github_url": "https://github.com/datura-ai/desearch",
+    "readme_keywords_found": "api service, endpoint, search engine, monitor, scrape, web data",
+    "description": "Decentralized search engine"
+  },
+  {
+    "netuid": 73,
+    "name": "MetaHash",
+    "categorias_match": "compute_light|oracle|storage",
+    "emission_tao_day": 25.6859,
+    "miners_count": 6,
+    "github_url": "https://github.com/fx-integral/metahash",
+    "readme_keywords_found": "hash, data feed, ipfs",
+    "description": ""
+  },
+  {
+    "netuid": 123,
+    "name": "MANTIS",
+    "categorias_match": "oracle|storage",
+    "emission_tao_day": 24.512,
+    "miners_count": 251,
+    "github_url": "https://github.com/Barbariandev/MANTIS",
+    "readme_keywords_found": "forecast, storage",
+    "description": ""
+  },
+  {
+    "netuid": 45,
+    "name": "Talisman AI",
+    "categorias_match": "api_service|compute_light|oracle",
+    "emission_tao_day": 23.6224,
+    "miners_count": 6,
+    "github_url": "https://github.com/Team-Rizzo/talisman-ai",
+    "readme_keywords_found": "endpoint, hash, market data",
+    "description": ""
+  },
+  {
+    "netuid": 77,
+    "name": "Liquidity",
+    "categorias_match": "api_service|indexing|monitoring",
+    "emission_tao_day": 23.3542,
+    "miners_count": 11,
+    "github_url": "https://github.com/creativebuilds/sn77",
+    "readme_keywords_found": "endpoint, index, monitor",
+    "description": "Supply liquidity on external chains via uniswap, incentivize any project"
+  },
+  {
+    "netuid": 65,
+    "name": "TAO Private Network",
+    "categorias_match": "api_service|networking",
+    "emission_tao_day": 23.3011,
+    "miners_count": 25,
+    "github_url": "https://github.com/taofu-labs/tpn-subnet",
+    "readme_keywords_found": "endpoint, vpn, bandwidth",
+    "description": "Developer-friendly Decentralised VPN infrastructure."
+  },
+  {
+    "netuid": 59,
+    "name": "Babelbit",
+    "categorias_match": "api_service|data_collection|monitoring|oracle|storage",
+    "emission_tao_day": 22.1949,
+    "miners_count": 164,
+    "github_url": "https://github.com/babelbit/babelbit_subnet",
+    "readme_keywords_found": "endpoint, dataset, monitor, predict, storage, object storage",
+    "description": "Babelbit: harnessing the predictive power of LLMs to deliver state-of-the-art translation services"
+  },
+  {
+    "netuid": 88,
+    "name": "Investing",
+    "categorias_match": "oracle",
+    "emission_tao_day": 21.6905,
+    "miners_count": 116,
+    "github_url": "https://github.com/mobiusfund/investing",
+    "readme_keywords_found": "market data",
+    "description": "Decentralized AUM"
+  },
+  {
+    "netuid": 79,
+    "name": "MVTRX",
+    "categorias_match": "api_service|data_collection|monitoring|networking",
+    "emission_tao_day": 21.676,
+    "miners_count": 234,
+    "github_url": "https://github.com/taos-im/sn-79",
+    "readme_keywords_found": "endpoint, dataset, monitor, alert, proxy",
+    "description": "Building a SOTA Exchange for dTAO and Beyond"
+  },
+  {
+    "netuid": 111,
+    "name": "oneoneone",
+    "categorias_match": "api_service|data_collection|scraping|storage",
+    "emission_tao_day": 21.624,
+    "miners_count": 251,
+    "github_url": "https://github.com/oneoneone-io/subnet-111",
+    "readme_keywords_found": "endpoint, data collection, scraping, storage",
+    "description": ""
+  },
+  {
+    "netuid": 89,
+    "name": "InfiniteHash",
+    "categorias_match": "compute_light|indexing|monitoring|storage",
+    "emission_tao_day": 20.2736,
+    "miners_count": 3,
+    "github_url": "https://github.com/backend-developers-ltd/InfiniteHash",
+    "readme_keywords_found": "hash, index, monitor, storage",
+    "description": "BTC Pool + Lightning Network"
+  },
+  {
+    "netuid": 80,
+    "name": "dogelayer",
+    "categorias_match": "compute_light|indexing|monitoring|networking|storage",
+    "emission_tao_day": 18.7201,
+    "miners_count": 14,
+    "github_url": "https://github.com/dogelayer-ai/dogelayer",
+    "readme_keywords_found": "hash, index, monitor, proxy, storage",
+    "description": "Dogelayer is the world's first mining pool enabling Scrypt miners to join Bittensor subnet. Our merg"
+  },
+  {
+    "netuid": 128,
+    "name": "ByteLeap",
+    "categorias_match": "compute_light|monitoring",
+    "emission_tao_day": 18.6938,
+    "miners_count": 42,
+    "github_url": "https://github.com/byteleapai/byteleap-Miner",
+    "readme_keywords_found": "compute task, monitor",
+    "description": "Pioneering the Future of Cloud & Blockchain"
+  },
+  {
+    "netuid": 116,
+    "name": "TaoLend",
+    "categorias_match": "monitoring|networking|oracle",
+    "emission_tao_day": 18.5908,
+    "miners_count": 4,
+    "github_url": "https://github.com/xpenlab/taolend",
+    "readme_keywords_found": "monitor, proxy, oracle, price oracle",
+    "description": "TaoLend is a decentralized lending protocol for the Bittensor ($TAO) ecosystem.It allows users to le"
+  },
+  {
+    "netuid": 72,
+    "name": "StreetVision by NATIX",
+    "categorias_match": "data_collection|oracle",
+    "emission_tao_day": 18.5074,
+    "miners_count": 250,
+    "github_url": "https://github.com/natixnetwork/streetvision-subnet",
+    "readme_keywords_found": "dataset, predict",
+    "description": "Powered by NATIX\u2019s Internet of Cameras, StreetVision is advancing autonomous driving, Physical AI, a"
+  },
+  {
+    "netuid": 82,
+    "name": "Hermes",
+    "categorias_match": "api_service|indexing|monitoring",
+    "emission_tao_day": 18.0921,
+    "miners_count": 248,
+    "github_url": "https://github.com/SN-Hermes/hermes-subnet",
+    "readme_keywords_found": "endpoint, index, indexing, monitor, uptime",
+    "description": "Hermes (SN82) is the bridge between AI and on-chain data, turning natural language into actionable b"
+  },
+  {
+    "netuid": 117,
+    "name": "BrainPlay",
+    "categorias_match": "api_service|monitoring",
+    "emission_tao_day": 17.3926,
+    "miners_count": 3,
+    "github_url": "https://github.com/shiftlayer-llc/brainplay-subnet",
+    "readme_keywords_found": "endpoint, uptime",
+    "description": "LLM benchmark via real-world games"
+  },
+  {
+    "netuid": 57,
+    "name": "Sparket.AI",
+    "categorias_match": "indexing|oracle",
+    "emission_tao_day": 17.2813,
+    "miners_count": 9,
+    "github_url": "https://github.com/sparket-ai/sparket-ai",
+    "readme_keywords_found": "index, predict",
+    "description": "Decentralized prediction infrastructure for sports and live events."
+  },
+  {
+    "netuid": 118,
+    "name": "HODL Exchange",
+    "categorias_match": "indexing",
+    "emission_tao_day": 15.9859,
+    "miners_count": 62,
+    "github_url": "https://github.com/mobiusfund/etf",
+    "readme_keywords_found": "index",
+    "description": "Trade Alpha tokens with no price impact or slippage"
+  }
+]
